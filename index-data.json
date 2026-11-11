@@ -1,0 +1,18 @@
+{
+  "official": [
+    { "type": "subdomain", "name": "xcorrupted-entitysx", "color": "#511177", "glow": "#a855f7", "desc": "Owner" },
+    { "type": "subdomain", "name": "shizuko", "color": "#FF2153", "desc": "Co-Owner" },
+    { "type": "external", "url": "https://discord.gg", "label": "DC", "suffix": " &nbsp;&middot;&nbsp; Community Discord", "color": "#ff8c00", "glow": "#cc0000", "desc": "Join the community server (not set up yet)" },
+    { "type": "subdomain", "name": "status", "color": "#0000ff", "glow": "#3b82f6", "desc": "Service status and uptime" },
+    { "type": "local", "path": "/important.html", "label": "important", "suffix": ".html", "color": "var(--link-purple)", "desc": "Rules and terms for all services (placeholder page)" },
+    { "type": "local", "path": "/about.html", "label": "about", "suffix": ".html", "color": "var(--link-purple)", "desc": "About this domain and its goal (placeholder page)" },
+    { "type": "local", "path": "/setup.html", "label": "setup", "suffix": ".html", "color": "var(--link-purple)", "desc": "DNS, hosting, and email setup guide (placeholder page)" }
+  ],
+  "community": {
+    "totalSpots": 5,
+    "members": [
+      { "type": "subdomain", "name": "redacted", "color": "#FF0000", "desc": "Not set up yet." },
+      { "type": "subdomain", "name": "dinoninja647", "color": "#FF0000", "desc": "Not set up yet." }
+    ]
+  }
+}
